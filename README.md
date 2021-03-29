@@ -4,7 +4,7 @@ This project skeleton is created using https://start.spring.io/ by selecting Jav
 
 ## KISS
 
-- This project is designed and structured using KISS (Keep it simple, stupid) principle which states that designs and/or systems should be as simple as possible. Wherever possible, complexity should be avoided in a system—as simplicity guarantees the greatest levels of user acceptance and interaction.
+- This project is designed and structured using KISS (Keep it simple, stupid) principle which states that designs and/or systems should be as simple as possible. Wherever possible, complexity should be avoided in a system. As simplicity guarantees the greatest levels of user acceptance and interaction.
 
 ## Requirements (Tools and Technologies)
 
